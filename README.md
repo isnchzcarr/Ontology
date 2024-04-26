@@ -1,2 +1,0 @@
-# Ontology
-Representación del conocimiento
